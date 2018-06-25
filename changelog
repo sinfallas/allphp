@@ -1,0 +1,47 @@
+commit becb7ade131e58385e4ccb840e915735fc179161 (HEAD -> master, origin/master, origin/HEAD)
+Author: jose perez <sinfallas@gmail.com>
+Date:   Sun Apr 22 13:04:52 2018 -0400
+
+    * se agregan nuevos cambios
+
+commit bb7a43d15186549adf00c9348945f4028f227b9c
+Author: jose perez <sinfallas@gmail.com>
+Date:   Sat Mar 31 12:48:57 2018 -0400
+
+    * changelog
+
+commit f791f0af944c24b782db6d84434fff1d240d183d
+Author: jose perez <sinfallas@gmail.com>
+Date:   Sat Mar 31 12:48:41 2018 -0400
+
+    * se agregan opciones a apt
+
+commit d4a348f49e17ade16727abbaf7c5fed9dae3ec40
+Author: Jose Perez <sinfallas@users.noreply.github.com>
+Date:   Tue Mar 27 13:42:49 2018 -0400
+
+    bugfix
+
+commit 719f08995c4d5f73e2a4463cc6ac612810e97a21 (tag: v1.0)
+Author: Jose Perez <sinfallas@users.noreply.github.com>
+Date:   Tue Mar 27 13:38:07 2018 -0400
+
+    Update README.md
+
+commit 30b8c663dd08798c0e926ae1a8a7bdc7e984db1e
+Author: Jose Perez <sinfallas@users.noreply.github.com>
+Date:   Tue Mar 27 13:35:12 2018 -0400
+
+    Add files via upload
+
+commit 9fa9237d6e3f87204ecb557919d00df09394e4dd
+Author: Jose Perez <sinfallas@users.noreply.github.com>
+Date:   Tue Mar 27 13:32:56 2018 -0400
+
+    primer commit
+
+commit d12c72fcd1a691f10977aa4114b8adb017c57b0b
+Author: Jose Perez <sinfallas@users.noreply.github.com>
+Date:   Tue Mar 27 13:32:03 2018 -0400
+
+    Initial commit
