@@ -8,6 +8,7 @@ if [[ "$EUID" != "0" ]]; then
 	echo -e "\e[00;31mERROR: Debes ser root.\e[00m"
 	exit 1
 fi
+
 echo "$BASHPID" > /run/$(basename $0).pid
 quien=$(who | cut -d' ' -f1 | sort | uniq)
 
